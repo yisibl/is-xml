@@ -1,0 +1,26 @@
+{
+  "name": "is-xml",
+  "version": "0.1.0",
+  "description": "Check if a string is XML",
+  "author": "yisibl",
+  "license": "MIT",
+  "repository": "yisibl/is-xml",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "xml",
+    "detect",
+    "check",
+    "is",
+    "tags",
+    "elements",
+    "string"
+  ],
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
